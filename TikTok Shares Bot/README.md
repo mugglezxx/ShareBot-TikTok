@@ -15,8 +15,7 @@
 
 [!]Github all releases >>> https://github.com/XeldraEU/Xeldra.EU-ShareBot-TikTok.git
 
-[!]Share Bot 
-Share bot : 
+[!]Share Bot : 
 
 Allows you to generate a lot of sharing on a tiktok video thanks to its URL, I want to specify that its does not work all the time as the program is not yet developed. I want to say that you have risks of banishment /!\.
 
