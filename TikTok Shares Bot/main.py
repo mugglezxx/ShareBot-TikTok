@@ -25,7 +25,13 @@ class TikTok:
             self.close('[40;31mValue error, expected an integer')
 
         try:
-            print("[40;37m╔═════TikTok Video URL:")
+            print("[40;37m╔═════TikTok Video URL:"https://vm.tiktok.com/ZMLbc7pff/
+
+
+
+
+
+)
             self.video_id = input('[40;37m╚══>').split('/')[5]
             
         except IndexError:
